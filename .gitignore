@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# data file
+dst-3.0_16_1_hh_database.csv
