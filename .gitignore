@@ -171,7 +171,7 @@ cython_debug/
 .ruff_cache/
 
 # PyPI configuration file
-.pypirc
+.pyp
 
 # data file
-dst-3.0_16_1_hh_database.csv
+data/dst-3.0_16_1_hh_database.csv
