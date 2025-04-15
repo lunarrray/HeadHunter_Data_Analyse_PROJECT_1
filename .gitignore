@@ -173,5 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pyp
 
-# data file
+#Ignore csv files
 data/dst-3.0_16_1_hh_database.csv
+
